@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mayank12-razor
-- 👀 I’m interested in Web Dev (Backend & HTMl) projects in Spectrum of Mine Environment.
+- 👀 I’m interested in Web Dev (Backend & HTMl) & Arduino based projects in Spectrum of Mine Environment.
 - 🌱 I’m currently learning Web Dev & Presuing Btech in Mining from NITRR.
 - 💞️ I’m looking to collaborate on Web Dev projects on Mine Evo & Medical based applications of Web Dev.
-- 📫 How to reach me through my Insta ID
+- 📫 How to reach me through my Linkedin ID
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Mining isn't just Orthodox stuff, It requires lots of Supportive Industries..which in turn makes lots of Cash.
 
